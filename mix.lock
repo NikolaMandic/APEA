@@ -1,0 +1,10 @@
+%{"aerospike": {:git, "https://github.com/NikolaMandic/aerospikeErlangClient.git", "fae3d1fbbb56b0c42281d0242cb55bc8f513a6fd", []},
+  "cowboy": {:package, "1.0.0"},
+  "cowlib": {:package, "1.0.0"},
+  "ex_aerospike": {:git, "https://github.com/NikolaMandic/ex_aerospike", "42391636333777bd784f772409e658eefcdc56b2", []},
+  "jiffy": {:git, "https://github.com/davisp/jiffy", "5cd89c1eda3801bdef790b1e7c0e09259332c0fc", []},
+  "linguist": {:package, "0.1.2"},
+  "phoenix": {:package, "0.4.1"},
+  "plug": {:package, "0.7.0"},
+  "poison": {:package, "1.1.1"},
+  "ranch": {:package, "1.0.0"}}
